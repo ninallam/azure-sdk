@@ -1197,3 +1197,4 @@
 "spring-social-microsoft-graph","com.microsoft.azure","","0.1.7","Spring Social Microsoft Graph","Spring Boot","https://github.com/microsoft/azure-spring-boot","NA","NA","spring","false","","","","","","true","","","","",""
 "spring-starter-azure-storage","com.microsoft.azure","1.2.8","","spring-starter-azure-storage","Spring Cloud","spring","NA","NA","spring","false","","","","","","true","","","","",""
 "azure-storage-spring-boot-autoconfigure","com.microsoft.azure","","0.1.5","Storage Spring Boot Autoconfigure","Storage","https://github.com/microsoft/azure-spring-boot","NA","NA","spring","false","","","","","","true","","","","",""
+"azure-developer-loadtesting","com.azure","","1.0.0-beta.1","Load Testing","Load Testing","loadtestservice","","","client","true","","","","preview","","false","","","","",""
